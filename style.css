@@ -1,0 +1,98 @@
+body {
+    font-family: 'Comic Sans MS', "cursive";
+    background-color: #fffaf4;
+    margin: 20px auto;
+    padding: 20px;
+    color: #444;
+}
+h1 {
+    text-align: center;
+    color: #f26289;
+    font-size: 50px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+img {
+    display: block;
+    max-width: 90%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 15px;
+}
+iframe {
+    display: block;
+    margin: 40px auto;
+    border-radius: 15px;
+}
+h2 {
+    text-align: center;
+    color: #f26289;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 35px;
+}
+.audi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto;
+    background-color: #ffffff;
+    border: 2px solid #fbb0bd;
+    border-radius: 55px;
+    padding: 20px;
+    width: 250px;
+}
+.psst {font-size: smaller; margin-bottom: 40px; text-align: center;}
+.chiikawawho, .chiikawafacts, .characters {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 2px solid #fbb0bd;
+    border-radius: 55px;
+    font-size: larger;
+}
+p {
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: larger;
+}
+.manga, tr, td, th {
+    border-collapse: collapse;
+    border: 1px solid #e88c9c;
+    background-color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+.manga {
+    width: 90%;
+    max-width: 800px;
+    margin: 30px auto;
+}
+ul, ol {
+    padding-left: 40px;
+    margin-bottom: 20px;
+    font-size: larger;
+}
+.favorite{
+    background-color: #ffffff;
+    border: 4px solid #fbb0bd;
+    border-radius: 55px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-around;
+}
+video {
+    background-color: #ffffff;
+    border: 2px solid #fbb0bd;
+    border-radius: 20px;
+    margin: 30px auto;
+    margin-left: 30px;
+}
+.favorite p {
+    margin-left: 27px;
+    margin-right: 27px;
+    margin-top: 37px;
+    font-stretch: expanded;
+    font-size: 26px;
+}
